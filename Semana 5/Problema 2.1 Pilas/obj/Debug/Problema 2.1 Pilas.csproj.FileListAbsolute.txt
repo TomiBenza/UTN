@@ -1,0 +1,11 @@
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\bin\Debug\Problema 2.1 Pilas.exe.config
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\bin\Debug\Problema 2.1 Pilas.exe
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\bin\Debug\Problema 2.1 Pilas.pdb
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema 2.1 Pilas.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema 2.1 Pilas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema_2._1_Pilas.FrmPilas.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema_2._1_Pilas.Properties.Resources.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema 2.1 Pilas.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema 2.1 Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema 2.1 Pilas.exe
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Problema 2.1 Pilas\obj\Debug\Problema 2.1 Pilas.pdb
