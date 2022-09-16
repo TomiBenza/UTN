@@ -1,0 +1,132 @@
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\1.1-Carreras.exe.config
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\1.1-Carreras.exe
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\1.1-Carreras.pdb
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\_1._1_Carreras.FrmUTN.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\_1._1_Carreras.FrmNueva_Carrera.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\_1._1_Carreras.Properties.Resources.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\1.1-Carreras.exe
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\1.1-Carreras.pdb
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.CopyComplete
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\_1._1_Carreras.Presentacion.FrmConsultarCarreras.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\EnvDTE.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\1.1-Carreras\obj\Debug\_1._1_Carreras.Presentacion.Reportes.FrmReporteCarreras.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\1.1-Carreras.exe.config
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\1.1-Carreras.exe
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\1.1-Carreras.pdb
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\EnvDTE.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\_1._1_Carreras.Presentacion.FrmConsultarCarreras.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\_1._1_Carreras.FrmUTN.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\_1._1_Carreras.FrmNueva_Carrera.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\_1._1_Carreras.Presentacion.Reportes.FrmReporteCarreras.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\_1._1_Carreras.Properties.Resources.resources
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\1.1-Carreras.csproj.CopyComplete
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\1.1-Carreras.exe
+C:\Users\Tomi\Desktop\UTN\Programacion_2_Cuatrimestre\Semana 4\1.1-Carreras\obj\Debug\1.1-Carreras.pdb
